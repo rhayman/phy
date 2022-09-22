@@ -15,4 +15,4 @@ tqdm
 joblib
 click
 mkdocs
-PyQtWebEngine
+PyQtWebEngine=5.5
